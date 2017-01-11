@@ -17,7 +17,6 @@ elixir(function(mix) {
   mix
     .sass('app.scss')
     .styles([
-      'font-awesome.min.css',
       'codetn.css',
       'static_pages.css'
     ]);

@@ -1,0 +1,34 @@
+The App:
+Our app is a mentor finder, that is mainly geared towards freshmen. But, this app can also help other grades, in the way of finding classes,  
+info about clubs, and to find mentors as well. Finding mentors is done by looking up students that have your weaknesses as their strengths. 
+
+
+Starting the Server:
+The first thing you need to do is click the green run button on the top middle. Next you need to wait about five seconds, then you click 
+Preview (next to run) and under that, you click 'Preview Running Application'. To see the app in a seperate tab, you click the button with 
+the arrow (top right of preview).
+
+
+Restarting the server:
+To restart the server, you click run and wait five second again. And follow the steps in Starting The Server.
+
+The Pages:
+	Home:
+		The home page speaks for its self, it is the home of the app. This page features the logo, register and login buttons, a quick 
+		explanation of the app, and a navigation bar
+	
+	Register:
+		This page is used to register someone into the app. The required fields is a name, email, and password.
+	
+	Contact Us:
+		The contact page has a picture of all the team members and their roles and emails.
+	
+	Clubs and Subjects:
+		Used to find the location of classes. Also used, to find location and meeting times of the various clubs in the school.
+	
+	Need Help:
+		Useed to find students who can help other students, and is seperated by class name. 
+	
+	Edit Profile:
+		Used to edit the profile of someone who is logged on. 
+	

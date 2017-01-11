@@ -1,0 +1,14 @@
+INSERT INTO clubs (name, teacher_name, room, meeting_time) VALUES ('', '', '', ''); <-clubs database form
+
+INSERT INTO subjects (name, teacher_name, room) VALUES ('', '', ''); <-subjects database form
+
+INSERT INTO interests (name, subname) VALUES ('', ''); <-interests database form
+
+INSERT INTO profiles (user_first_name, user_last_name, user_grade, user_age, user_gender) VALUES ('', '', '', '', ''); <-profiles database form
+
+SELECT * FROM table_name ORDER BY column_name ASC|DESC; <- Ordering a database
+
+DELETE FROM table_name WHERE some_column = some_value; <- Deleting a row from a database
+
+UPDATE table_name SET column_name = 'some_value' WHERE column_name = some_value; <- Updating a databae row
+

@@ -44,3 +44,221 @@ body {
   float: left;
   padding: 0px 20px 0px;
 }
+
+.profileH{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.name2{
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.name3{
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.name4{
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.interest{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.about{
+  text-align: center;
+  font-size: 20px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.description{
+  text-align: center;
+  font-size: 16px;
+  color: #000000;
+}
+
+.sports{
+  background-color: lightgrey;
+  width: 250px;
+  border: 2px solid #ff3333;
+  padding: 25px;
+  margin: 25px;
+}
+
+.sport{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.slist{
+  margin-left: 20px;
+}
+
+.subjects{
+  background-color: lightgrey;
+  width: 250px;
+  border: 2px solid #ff3333;
+  padding: 25px;
+  margin: 25px;  
+}
+
+.subject{
+  text-decoration: underline;
+  font-weight: bold;
+}
+.sub{
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.ssub{
+  margin-left: 40px;
+}
+
+.suList{
+  margin-left: 20px;
+}
+
+.arts{
+  background-color: lightgrey;
+  width: 250px;
+  border: 2px solid #ff3333;
+  padding: 25px;
+  margin: 25px;
+}
+
+.art{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.alist{
+  margin-left: 20px;
+}
+
+.stem{
+  background-color: lightgrey;
+  width: 250px;
+  border: 2px solid #ff3333;
+  padding: 25px;
+  margin: 25px;  
+}
+
+.sHead{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.sshead{
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.sssub{
+  margin-left: 40px;
+}
+
+.other{
+  background-color: lightgrey;
+  width: 250px;
+  border: 2px solid #ff3333;
+  padding: 25px;
+  margin: 25px;
+}
+
+.olist{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.osub{
+  margin-left: 20px;
+}
+
+.hhead{
+  text-decoration: underline;
+  font-weight: bold;
+}
+.hhhheader {
+  text-align: center;
+}
+.emailll ul {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.emailll {
+  text-align: center;
+}
+
+.clubsh{
+  font-weight: bold; 
+  text-align: center;
+  text-decoration: underline;
+}
+
+.ctable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ctable {
+  border-color: red;
+  border-style: groove;
+  border-width: thick;
+}
+
+.ctable tr td, .ctable tr td{
+  padding-left:10px;
+  padding-right:10px;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.subjectsh{
+  font-weight: bold; 
+  text-align: center;
+  text-decoration: underline;
+}
+
+.stable{
+  border-color: red;
+  border-style: groove;
+  border-width: thick;
+}
+
+.stable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.stable tr th, .stable tr td {
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.carousel-inner > .item > img{ 
+  width:1540px; 
+  height:460px;
+}
+
+.carousel{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
